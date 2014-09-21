@@ -1,0 +1,22 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[as:home|Door43 (as)]]
+  * [[en:license|License]]
+
+**Resources**
+
+  * [[as:obs|Open Bible Stories (as)]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-as|d43-as repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-as/archive/master.zip|d43-as.zip]]
+
+**Recent Changes**
+{{changes>ns = as}}
+
+**Latest Status**
+{{page>en:uwadmin:as:obs:status}}
+
