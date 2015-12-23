@@ -1,14 +1,10 @@
-====== Complete List of Important Terms ======
+====== Complete List of Important Terms - Assamese ======
 
-==== "Key Terms" and "Other Terms" in OBE: ====
+==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:as:obe:kt:home|Key Terms]]
-  * [[:as:obe:other:home|Other Terms]]
+  * [[:as:obe:kt:home]]
+  * [[:as:obe:other:home]]
 
-==== Does a term need to be in either of these lists? ====
-  * [[:as:bible:team-info:training:topics:kt-yes-no]]
-  * [[en:bible:team-info:training:topics:common-words]] - If it's on this list, most likely not.
-  * [[:as:bible:admin-reports:obe-admin:obe-reject]] - If it's on this list, no.
-==== All Terms in the OBE: ====
+==== All Important Terms: ====
 
-{{pagequery>ns:en:obe; fulltext; sort=title:asc; display={name} -{title}; natsort; showcount; hidemsg; hidejump; layout=column}}
+<nspages as:obe -r -title -exclude:home -textPages="">
