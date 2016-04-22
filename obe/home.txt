@@ -1,9 +1,11 @@
-====== Complete List of Important Terms - Assamese ======
+======Complete List of translationWords- Assamese ======
 
 ==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:as:obe:kt:home]]
-  * [[:as:obe:other:home]]
+  * [[:as:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:as:obe:other:home|List of the Other Terms in the OBE Directory]]
+
+
 
 ==== All Important Terms: ====
 
